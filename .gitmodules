@@ -1,0 +1,3 @@
+[submodule "modules/simplelogger"]
+	path = modules/simplelogger
+	url = ../simplelogger.git
