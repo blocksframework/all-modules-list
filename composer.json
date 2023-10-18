@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "cs-fix": "./tools/php-cs-fixer/vendor/bin/php-cs-fixer --config=.php-cs-fixer.php fix"
+    },
+    "authors": [
+        {
+            "name": "Stephen Stephenson",
+            "email": "stephenson.inbox@gmail.com"
+        }
+    ]
+}
