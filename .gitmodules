@@ -1,0 +1,3 @@
+[submodule "modules/system"]
+	path = modules/system
+	url = ../system.git
