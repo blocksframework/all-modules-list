@@ -7,5 +7,7 @@
             "name": "Stephen Stephenson",
             "email": "stephenson.inbox@gmail.com"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
