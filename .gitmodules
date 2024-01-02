@@ -7,3 +7,6 @@
 [submodule "modules/data"]
 	path = modules/data
 	url = ../data.git
+[submodule "modules/startup"]
+	path = modules/startup
+	url = ../startup.git
