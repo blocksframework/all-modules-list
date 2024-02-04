@@ -10,3 +10,12 @@
 [submodule "modules/startup"]
 	path = modules/startup
 	url = ../startup.git
+[submodule "modules/config"]
+	path = modules/config
+	url = ../config.git
+[submodule "modules/network"]
+	path = modules/network
+	url = ../network.git
+[submodule "modules/localisation"]
+	path = modules/localisation
+	url = ../localisation.git
