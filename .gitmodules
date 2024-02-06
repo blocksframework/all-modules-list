@@ -19,3 +19,6 @@
 [submodule "modules/localisation"]
 	path = modules/localisation
 	url = ../localisation.git
+[submodule "modules/database"]
+	path = modules/database
+	url = ../database.git
