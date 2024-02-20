@@ -22,3 +22,6 @@
 [submodule "modules/database"]
 	path = modules/database
 	url = ../database.git
+[submodule "modules/account"]
+	path = modules/account
+	url = ../account.git
