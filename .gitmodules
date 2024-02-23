@@ -25,3 +25,6 @@
 [submodule "modules/account"]
 	path = modules/account
 	url = ../account.git
+[submodule "modules/widgets"]
+	path = modules/widgets
+	url = ../widgets.git
