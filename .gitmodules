@@ -28,3 +28,6 @@
 [submodule "modules/widgets"]
 	path = modules/widgets
 	url = ../widgets.git
+[submodule "modules/security"]
+	path = modules/security
+	url = ../security.git
