@@ -31,3 +31,6 @@
 [submodule "modules/security"]
 	path = modules/security
 	url = ../security.git
+[submodule "modules/cache"]
+	path = modules/cache
+	url = ../cache.git
