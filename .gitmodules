@@ -34,9 +34,6 @@
 [submodule "modules/cache"]
 	path = modules/cache
 	url = ../cache.git
-[submodule "modules/view"]
-	path = modules/view
-	url = ../view.git
 [submodule "modules/form"]
 	path = modules/form
 	url = ../form.git
