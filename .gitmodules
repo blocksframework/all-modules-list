@@ -37,3 +37,6 @@
 [submodule "modules/form"]
 	path = modules/form
 	url = ../form.git
+[submodule "modules/cms"]
+	path = modules/cms
+	url = ../cms.git
