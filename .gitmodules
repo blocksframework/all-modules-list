@@ -40,3 +40,6 @@
 [submodule "modules/cms"]
 	path = modules/cms
 	url = ../cms.git
+[submodule "modules/wiki"]
+	path = modules/wiki
+	url = ../wiki.git
