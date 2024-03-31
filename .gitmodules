@@ -43,3 +43,6 @@
 [submodule "modules/wiki"]
 	path = modules/wiki
 	url = ../wiki.git
+[submodule "modules/mailer"]
+	path = modules/mailer
+	url = ../mailer.git
