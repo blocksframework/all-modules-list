@@ -46,3 +46,6 @@
 [submodule "modules/mailer"]
 	path = modules/mailer
 	url = ../mailer.git
+[submodule "modules/filestoreage"]
+	path = modules/filestoreage
+	url = ../filestoreage.git
