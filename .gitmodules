@@ -55,3 +55,12 @@
 [submodule "modules/media"]
 	path = modules/media
 	url = ../media.git
+[submodule "modules/error-handler"]
+	path = modules/error-handler
+	url = ../error-handler.git
+[submodule "modules/log"]
+	path = modules/log
+	url = ../log.git
+[submodule "modules/encryption"]
+	path = modules/encryption
+	url = ../encryption.git
