@@ -1,5 +1,4 @@
 /tools/php-cs-fixer/vendor/
 /nbproject/
 /.php_cs.cache
-/modules (old)/
 /vendor/
