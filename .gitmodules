@@ -49,3 +49,6 @@
 [submodule "modules/filestoreage"]
 	path = modules/filestoreage
 	url = ../filestoreage.git
+[submodule "modules/filestorage"]
+	path = modules/filestorage
+	url = ../filestorage.git
