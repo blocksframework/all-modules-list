@@ -49,3 +49,6 @@
 [submodule "modules/filestorage"]
 	path = modules/filestorage
 	url = ../filestorage.git
+[submodule "modules/admin"]
+	path = modules/admin
+	url = ../admin.git
