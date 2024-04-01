@@ -52,3 +52,6 @@
 [submodule "modules/admin"]
 	path = modules/admin
 	url = ../admin.git
+[submodule "modules/media"]
+	path = modules/media
+	url = ../media.git
