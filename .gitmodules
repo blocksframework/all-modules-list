@@ -67,3 +67,9 @@
 [submodule "modules/time"]
 	path = modules/time
 	url = ../time.git
+[submodule "modules/tasklist"]
+	path = modules/tasklist
+	url = ../tasklist.git
+[submodule "modules/search"]
+	path = modules/search
+	url = ../search.git
