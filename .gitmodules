@@ -64,3 +64,6 @@
 [submodule "modules/encryption"]
 	path = modules/encryption
 	url = ../encryption.git
+[submodule "modules/time"]
+	path = modules/time
+	url = ../time.git
