@@ -73,3 +73,6 @@
 [submodule "modules/search"]
 	path = modules/search
 	url = ../search.git
+[submodule "modules/seo"]
+	path = modules/seo
+	url = ../seo.git
