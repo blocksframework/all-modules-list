@@ -76,3 +76,6 @@
 [submodule "modules/seo"]
 	path = modules/seo
 	url = ../seo.git
+[submodule "modules/forum"]
+	path = modules/forum
+	url = ../forum.git
