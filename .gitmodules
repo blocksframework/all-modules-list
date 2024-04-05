@@ -79,3 +79,6 @@
 [submodule "modules/forum"]
 	path = modules/forum
 	url = ../forum.git
+[submodule "modules/filesystem"]
+	path = modules/filesystem
+	url = ../filesystem.git
